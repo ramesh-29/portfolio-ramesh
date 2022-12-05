@@ -76,7 +76,7 @@ const Index = () => {
 		        </div>
 	          <div className="counter-wrap ftco-animate d-flex mt-md-3">
               <div className="text">
-                <p><a href="/Ramesh_Vishnoi_Resume.pdf" className="btn btn-primary py-3 px-3" download>Download CV</a></p>
+                <p><a href="/RAMESH_VISHNOI_Resume.pdf" className="btn btn-primary py-3 px-3" download>Download CV</a></p>
               </div>
 	          </div>
 	        </div>
@@ -139,7 +139,7 @@ const Index = () => {
 			
     		<div className="row justify-content-center mt-5">
     			<div className="col-md-6 text-center ftco-animate">
-    				<p><a href="/Ramesh_Vishnoi_Resume.pdf" className="btn btn-primary py-4 px-5" download>Download CV</a></p>
+    				<p><a href="/RAMESH_VISHNOI_Resume.pdf.pdf" className="btn btn-primary py-4 px-5" download>Download CV</a></p>
 					
     			</div>
     		</div>
